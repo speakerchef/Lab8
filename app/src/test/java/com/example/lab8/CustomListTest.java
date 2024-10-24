@@ -20,6 +20,7 @@ public class CustomListTest {
         list = new CustomList(null, new ArrayList<>());
         return list;
     }
+    // comment
 
     @Test
     public void addCityTest() {
